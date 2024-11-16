@@ -10,8 +10,6 @@
 ![image](https://github.com/user-attachments/assets/433d09d6-9778-4e6c-ab60-16fb67ba123a)
 
 
-
-
 # Windows ✅
 # Linux ✅
 
