@@ -18,7 +18,7 @@
 git clone https://github.com/madanokr001/HaraKiri-email-bomber-tools.git
 ```
 ```
-cd HaraKiri-email-bomber-tools/Harakiri
+cd HaraKiri-Email-bomber-tools/Harakiri
 ```
 ```
 ls
