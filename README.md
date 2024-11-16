@@ -28,7 +28,8 @@ python main.py
 ```
 
 # About
-**smtplib**
+**Hara-Kiri email bombers**
+**🌟 Click the Star 🌟**
 
 
 
