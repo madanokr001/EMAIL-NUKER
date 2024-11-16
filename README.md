@@ -10,6 +10,25 @@
 
 
 
-# O
+# Windows ✅
+# Linux ✅
+
+# HOW TO USE ❓
+```
+git clone https://github.com/madanokr001/HaraKiri-email-bomber-tools.git
+```
+```
+cd HaraKiri-email-bomber-tools/Harakiri
+```
+```
+ls
+```
+```
+python main.py
+```
+
+# About
+**smtplib**
+
 
 
