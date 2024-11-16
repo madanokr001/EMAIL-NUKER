@@ -1,5 +1,7 @@
 # HARA-KIRI - EMAIL BOMB 🔥
 **Harakiri is a Python-based tool that provides various email bomb functionalities. This tool allows users to send large quantities of emails to a specified email address, potentially causing a significant burden on the recipient. It uses the smtplib module to handle the email sending process.**
+- **python 3.12 ✅**
+- **version 1.0 ✅** 
 
 # ScreenShot 📷 : 
 ![image](https://github.com/user-attachments/assets/ff3f6081-31ea-48d8-b86a-196863f94a8d)
@@ -28,9 +30,7 @@ python main.py
 ```
 
 # About
-
-- **python 3.12 ✅** 
-- **version 1.0 ✅**
+- **We greatly appreciate your feedback and suggestions. Please feel free to share any thoughts you may have; your input is invaluable to us!**
 
 
 
