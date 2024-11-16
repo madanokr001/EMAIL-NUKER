@@ -28,8 +28,9 @@ python main.py
 ```
 
 # About
-**python 3.12 🌟** 
-**module : smtplib 🌟**
+
+- **python 3.12 ✅** 
+- **version 1.0 ✅**
 
 
 
