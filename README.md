@@ -4,7 +4,12 @@
 **visit https://support.google.com/accounts/answer/185833?hl=ko**
 
 # ScreenShot📷:
-![image](https://github.com/user-attachments/assets/2791e333-6ff5-409c-aeec-3f7982a24743)
+![image](https://github.com/user-attachments/assets/59d9ff4f-3d9c-4b46-afe8-1fd3da9c7fdd)
+![image](https://github.com/user-attachments/assets/9aa744bd-5134-402b-ad99-0406504eabd9)
+![image](https://github.com/user-attachments/assets/66c0fd53-818b-4a52-a0b4-1f9be2977f10)
+
+
+
 
 # HOW TO USE ❓
 ```
