@@ -1,4 +1,4 @@
-# EMAIL NUKER v2 SOON...
+# EMAIL NUKER - Email spam tools
 
 
 
