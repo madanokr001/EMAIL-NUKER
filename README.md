@@ -1,7 +1,8 @@
 # EMAIL NUKER - Email spam tools 🔥
 
 # ScreenShot:
-![image](https://github.com/user-attachments/assets/4eb7b697-d7c5-49c4-bcb2-be61eba90a72)
+![image](https://github.com/user-attachments/assets/2791e333-6ff5-409c-aeec-3f7982a24743)
+
 
 
 
