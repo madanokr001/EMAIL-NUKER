@@ -1,7 +1,7 @@
 # 💣 EMAIL NUKER
 **EMAIL NUKER is a powerful email bombing tool developed using Python's smtplib module. It features a simple and efficient interface to automate bulk email sending tasks.**
 **The sending speed has been optimized to ensure fast and efficient delivery.**
-**visit https://support.google.com/accounts/answer/185833?hl=ko**
+**[visit https://support.google.com/accounts/answer/185833?hl=ko](https://www.youtube.com/watch?v=vtYrT-de9eY)**
 
 # ScreenShot📷:
 ![image](https://github.com/user-attachments/assets/59d9ff4f-3d9c-4b46-afe8-1fd3da9c7fdd)
