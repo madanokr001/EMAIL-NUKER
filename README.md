@@ -7,10 +7,6 @@
 ![image](https://github.com/user-attachments/assets/9aa744bd-5134-402b-ad99-0406504eabd9)
 ![image](https://github.com/user-attachments/assets/66c0fd53-818b-4a52-a0b4-1f9be2977f10)
 
-# APP PASSWORD ✅
-**[https://www.youtube.com/watch?v=vtYrT-de9eY)](https://www.youtube.com/watch?v=vtYrT-de9eY)**
-
-
 # HOW TO USE ❓
 ```
 git clone https://github.com/madanokr001/EMAIL-NUKER-v2.0.git
