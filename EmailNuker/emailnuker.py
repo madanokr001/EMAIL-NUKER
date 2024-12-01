@@ -25,7 +25,6 @@ Github : https://github.com/madanokr001
 [01] EMAIL BOMBER
 [02] EMAIL RANDOMIZE BOMB
 [03] EXIT
-
                 """))
     
 def main():
