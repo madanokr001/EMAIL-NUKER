@@ -35,10 +35,8 @@ def main():
     while True:
         logo()
         select = input(Colorate.Horizontal(Colors.red_to_white,"""
-╔═══[root@건우Sec]
-║
-║═══> 
-"""))
+╔═══[root@Matthew_11:24]~$
+╚══> """))
 
         if select == "1" or select.lower() == "01":
             def logo2():
