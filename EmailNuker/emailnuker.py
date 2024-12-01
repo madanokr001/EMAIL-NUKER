@@ -22,13 +22,10 @@ Revolt : https://rvlt.gg/wqXBTNNB
 Github : https://github.com/madanokr001
 ----------------------------------------  
 
-╔═══════════════════════════════════════╗
-║                                       ║
-║  [01] EMAIL BOMB                      ║
-║  [02] EMAIL RANDOMIZE BOMB            ║
-║  [03] EXIT                            ║                               
-║                                       ║
-╚═══════════════════════════════════════╝
+[01] EMAIL BOMBER
+[02] EMAIL RANDOMIZE BOMB
+[03] EXIT
+
                 """))
     
 def main():
