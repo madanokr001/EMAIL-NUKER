@@ -96,41 +96,29 @@ Github : https://github.com/madanokr001
                     print(Colorate.Horizontal(Colors.red_to_white, f"[-] Email sending limit : {e}"))
 
             logo2()
-            sender_email = input(Colorate.Horizontal(Colors.red_to_white, """
-╔═══[root@SENDER-EMAIL]
-║
-║═══> 
-"""))
+            sender_email = input(Colorate.Horizontal(Colors.red_to_white,"""
+╔═══[root@SENDER-EMAIL]~$
+╚══> """))
         
-            password = getpass.getpass(Colorate.Horizontal(Colors.red_to_white, """
-╔═══[root@APP-PASSWORD]
-║
-║═══> 
-"""))
+            password = getpass.getpass(Colorate.Horizontal(Colors.red_to_white,"""
+╔═══[root@APP-PASSWORD]~$
+╚══> """))
 
-            recv_email = input(Colorate.Horizontal(Colors.red_to_white, """
-╔═══[root@TARGET-EMAIL]
-║
-║═══> 
-"""))
+            recv_email = input(Colorate.Horizontal(Colors.red_to_white,"""
+╔═══[root@TARGET-EMAIL]~$
+╚══> """))
             
-            subject = input(Colorate.Horizontal(Colors.red_to_white, """
-╔═══[root@SUBJECT]
-║
-║═══> 
-"""))
+            subject = input(Colorate.Horizontal(Colors.red_to_white,"""
+╔═══[root@SUBJECT]~$
+╚══> """))
             
-            message = input(Colorate.Horizontal(Colors.red_to_white, """
-╔═══[root@MESSAGE]
-║
-║═══> 
-"""))
+            message = input(Colorate.Horizontal(Colors.red_to_white,"""
+╔═══[root@MESSAGE]~$
+╚══> """))
             
-            total_messages = input(Colorate.Horizontal(Colors.red_to_white, """
-╔═══[root@TOTAL-MESSAGE]
-║
-║═══> 
-"""))
+            total_messages = input(Colorate.Horizontal(Colors.red_to_white,"""
+╔═══[root@TOTAL]~$
+╚══> """))
 
             send_email(sender_email, password, recv_email, message, total_messages, subject)
             
@@ -215,41 +203,29 @@ Github : https://github.com/madanokr001
                     thread.join()
 
             logo3()
-            sender_email = input(Colorate.Horizontal(Colors.red_to_white, """
-╔═══[root@SENDER-EMAIL]
-║
-║═══> 
-"""))
-            
-            password = getpass.getpass(Colorate.Horizontal(Colors.red_to_white, """
-╔═══[root@APP-PASSWORD]
-║
-║═══> 
-"""))
+             sender_email = input(Colorate.Horizontal(Colors.red_to_white,"""
+╔═══[root@SENDER-EMAIL]~$
+╚══> """))
+        
+            password = getpass.getpass(Colorate.Horizontal(Colors.red_to_white,"""
+╔═══[root@APP-PASSWORD]~$
+╚══> """))
 
-            subject = input(Colorate.Horizontal(Colors.red_to_white, """
-╔═══[root@SUBJECT]
-║
-║═══> 
-"""))
+            recv_email = input(Colorate.Horizontal(Colors.red_to_white,"""
+╔═══[root@TARGET-EMAIL]~$
+╚══> """))
             
-            message = input(Colorate.Horizontal(Colors.red_to_white, """
-╔═══[root@MESSAGE]
-║
-║═══> 
-"""))
+            subject = input(Colorate.Horizontal(Colors.red_to_white,"""
+╔═══[root@SUBJECT]~$
+╚══> """))
             
             file_path = input(Colorate.Horizontal(Colors.red_to_white, """
-╔═══[root@EMAIL-LIST.txt]
-║
-║═══> 
-"""))
+╔═══[root@FILE.txt]~$
+╚══> """))
             
             total_messages = input(Colorate.Horizontal(Colors.red_to_white, """
-╔═══[root@TOTAL-MESSAGE]
-║
-║═══> 
-"""))
+╔═══[root@TOTAL]~$
+╚══> """))
 
             send_emails_thread(sender_email, password, file_path, message, total_messages, subject)
                     
