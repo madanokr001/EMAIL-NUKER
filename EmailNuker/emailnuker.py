@@ -35,7 +35,7 @@ def main():
     while True:
         logo()
         select = input(Colorate.Horizontal(Colors.red_to_white,"""
-╔═══[root@이메일테러기]
+╔═══[root@건우Sec]
 ║
 ║═══> 
 """))
