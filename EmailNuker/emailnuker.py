@@ -203,7 +203,7 @@ Github : https://github.com/madanokr001
                     thread.join()
 
             logo3()
-             sender_email = input(Colorate.Horizontal(Colors.red_to_white,"""
+            sender_email = input(Colorate.Horizontal(Colors.red_to_white,"""
 ╔═══[root@SENDER-EMAIL]~$
 ╚══> """))
         
