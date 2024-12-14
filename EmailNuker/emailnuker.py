@@ -1,6 +1,7 @@
 import sys
 from pystyle import Colorate, Colors
 import os
+import subprocess
 import smtplib
 import time
 import threading
@@ -8,30 +9,54 @@ import getpass
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
+def check_main():
+    os.system('cls' if os.name == 'nt' else 'clear')
+    print(Colorate.Horizontal(Colors.red_to_white,"""
+     _.-^^---....,,--       
+ _--                  --_  
+<                        >)
+|                         | 
+ \._                   _./  
+    ```--. . , ; .--'''       
+          | |   |             
+       .-=||  | |=-.   
+       `-=#$%&%$#=-'   
+          | ;  :|     
+ _____.,-#%&$@%#&#~,._____
+
+[INFO] version 2.0
+[INFO] coded by 건 우       
+                     
+"""))
+    subprocess.run("git pull", shell=True, stdout=subprocess.DEVNULL)
+    input(Colorate.Horizontal(Colors.red_to_white,"[INFO] Enter the continue..."))
+
 def logo():
     os.system('cls' if os.name == 'nt' else 'clear')
     print(Colorate.Horizontal(Colors.red_to_white, """
-
-╔═╗╔╦╗╔═╗╦╦    ╔╗╔╦ ╦╦╔═╔═╗╦═╗
-║╣ ║║║╠═╣║║    ║║║║ ║╠╩╗║╣ ╠╦╝
-╚═╝╩ ╩╩ ╩╩╩═╝  ╝╚╝╚═╝╩ ╩╚═╝╩╚═
-
+                                                         c=====e
+                                                            H
+   ____________                                         _,,_H__
+  (__((__((___()                                       //|     |
+ (__((__((___()()_____________________________________// |EMAIL|
+(__((__((___()()()------------------------------------'  |_____|
+                              
 ----------------------------------------
-coded by 건우Sec
+coded by 건 우
 Revolt : https://rvlt.gg/wqXBTNNB
 Github : https://github.com/madanokr001
-----------------------------------------  
+----------------------------------------
 
-[01] EMAIL BOMBER
-[02] EMAIL RANDOMIZE BOMB
-[03] EXIT
+[01] Email Bomb
+[02] Email Randomize Bomb
+[03] EXIT                
                 """))
     
 def main():
     while True:
         logo()
         select = input(Colorate.Horizontal(Colors.red_to_white,"""
-╔═══[root@Matthew_11:24]~$
+╔═══[root@E-Nuker]~$
 ╚══> """))
 
         if select == "1" or select.lower() == "01":
@@ -234,4 +259,5 @@ Github : https://github.com/madanokr001
 
 
 if __name__ == "__main__":
+    check_main()
     main()
