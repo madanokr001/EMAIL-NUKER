@@ -3,11 +3,13 @@
 **The sending speed has been optimized to ensure fast and efficient delivery.**
 
 # ScreenShot📷:
-![image](https://github.com/user-attachments/assets/75f2d140-21a3-4f96-ae5c-8c99cc141537)
+![image](https://github.com/user-attachments/assets/a8234bff-9bbd-401c-b117-539c398c8c7c)
 
 
-![image](https://github.com/user-attachments/assets/9aa744bd-5134-402b-ad99-0406504eabd9)
-![image](https://github.com/user-attachments/assets/66c0fd53-818b-4a52-a0b4-1f9be2977f10)
+
+![image](https://github.com/user-attachments/assets/6961a99e-e6b5-4eca-85e7-6b7f6367b5dd)
+
+![image](https://github.com/user-attachments/assets/98558022-68a3-4dcd-a57b-9c08475e77c4)
 
 # HOW TO USE ❓
 ```
@@ -20,7 +22,7 @@ cd EMAIL-NUKER-v2.0/EmailNuker
 ls
 ```
 ```
-python main.py
+python emailnuker.py
 ```
 
 ## Windows ✅
