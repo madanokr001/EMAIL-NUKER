@@ -18,7 +18,7 @@
 git clone https://github.com/madanokr001/EMAIL-NUKER-v2.0.git
 ```
 ```
-cd EMAIL-NUKER-v2.0/EmailNuker
+cd EMAIL-NUKER/EmailNuker
 ```
 ```
 ls
