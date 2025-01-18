@@ -227,11 +227,7 @@ Github : https://github.com/madanokr001
             password = getpass.getpass(Colorate.Horizontal(Colors.red_to_white,"""
 ╔═══[root@APP-PASSWORD]~$
 ╚══> """))
-
-            recv_email = input(Colorate.Horizontal(Colors.red_to_white,"""
-╔═══[root@TARGET-EMAIL]~$
-╚══> """))
-            
+        
             subject = input(Colorate.Horizontal(Colors.red_to_white,"""
 ╔═══[root@SUBJECT]~$
 ╚══> """))
