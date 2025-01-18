@@ -43,8 +43,8 @@ Revolt : https://rvlt.gg/wqXBTNNB
 Github : https://github.com/madanokr001
 ----------------------------------------
 
-[01] Email Bomb
-[02] Email Randomize Bomb
+[01] | EMAIL BOMB
+[02] | EMAIL RANDOMZIE BOMB
 [03] EXIT                
                 """))
     
@@ -52,7 +52,7 @@ def main():
     while True:
         logo()
         select = input(Colorate.Horizontal(Colors.red_to_white,"""
-╔═══[root@E-Nuker]~$
+╔═══[root@DESKTOP]~$
 ╚══> """))
 
         if select == "1" or select.lower() == "01":
