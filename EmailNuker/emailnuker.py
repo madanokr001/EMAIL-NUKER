@@ -45,7 +45,7 @@ Github : https://github.com/madanokr001
 
 [01] | EMAIL BOMB
 [02] | EMAIL RANDOMZIE BOMB
-[03] EXIT                
+[03] | EXIT                
                 """))
     
 def main():
